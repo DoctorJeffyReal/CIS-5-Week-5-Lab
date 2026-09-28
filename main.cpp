@@ -1,6 +1,6 @@
 #include <iostream>
 
-// Lab 5 — Your Name
+// Lab 5 — Jesus
 // CIS 5 Week 05 · Eligibility check
 
 int main() {
